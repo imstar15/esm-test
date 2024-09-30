@@ -1,0 +1,15 @@
+{
+  "name": "esm-test",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "dependencies": {
+    "@mangata-finance/sdk": "^2.2.0",
+    "@polkadot/keyring": "^13.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/node": "^7.20.2",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
